@@ -1,0 +1,14 @@
+qq-app:
+  users:
+    - id: 12
+      name: admin
+      sex: man
+    - id: 13
+      name: lisi
+      sex: man
+    - id: 14
+      name: xiaoli
+      sex: woman
+
+  app-key: xdskfljsdlkgjlsdfk
+  app-pwd: xkljslgknsa2352342
